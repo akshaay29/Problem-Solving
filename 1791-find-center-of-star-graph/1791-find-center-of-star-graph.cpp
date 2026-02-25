@@ -1,9 +1,13 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        int u1=edges[0][0],v1=edges[0][1];
-        int u2=edges[1][0],v2=edges[1][1];
-        if(u1==u2 || u1==v2) return u1;
-        return v1;
+        vector<int>relation(edges.size()+2,0);
+        for(auto i:edges){
+            int u=i[0] , v=i[1];
+            relation[u]+=1;
+            relation[v]+=1;
+        }
+        for(int i=1;i<=edges.size()+1;i++) if(relation[i]==edges.size()) return i;
+        return 0;
     }
 };
