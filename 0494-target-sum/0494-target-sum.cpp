@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int solve(int i,vector<int>&nums,vector<vector<int>>&dp,int target){
-        if(i==nums.size()){
-            if(target==0) return 1;
-            else return 0;
-        }
-        if(dp[i][target+2000]!=-1) return dp[i][target+2000];
-        int pos=solve(i+1,nums,dp,target-nums[i]);
-        int neg=solve(i+1,nums,dp,target+nums[i]);
-        return dp[i][target+2000]=pos+neg;
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
-        vector<vector<int>>dp(nums.size()+1,vector<int>(4001,-1));
-        return solve(0,nums,dp,target); 
+        vector<vector<int>>dp(nums.size()+1,vector<int>(4001,0));
+        dp[nums.size()][2000]=1;
+        for(int i=nums.size()-1;i>=0;i--){
+            for(int j=0;j<=4000;j++){
+                int pos=(j-nums[i]>=0) ? dp[i+1][j-nums[i]]:0;
+                int neg=(j+nums[i]<=4000) ? dp[i+1][j+nums[i]]:0;
+                dp[i][j]=pos+neg;
+            }
+        }
+        return dp[0][target+2000];
     }
 };
