@@ -1,16 +1,15 @@
 class Solution {
 public:
-    int solve(string &s, int left, int right,vector<vector<int>>&dp) {
-        if (left > right)
-            return 0;
-        if(dp[left][right]!=-1) return dp[left][right];
-        if (s[left] != s[right])
-            return dp[left][right] = 1 + min(solve(s, left, right - 1,dp), solve(s, left + 1, right,dp));
-        else return dp[left][right]=solve(s,left+1,right-1,dp);
-    }
     int minInsertions(string s) {
-        int left = 0, right = s.size() - 1;
-        vector<vector<int>>dp(s.size()+1,vector<int>(s.size()+1,-1));
-        return solve(s, left, right,dp);
+        int n=s.size();
+        vector<vector<int>>dp(s.size()+1,vector<int>(s.size()+1,0));
+        for(int i=n-1;i>=0;i--){
+            for(int j=i;j<=n-1;j++){
+                if(i==j) dp[i][j]=0;
+                else if(s[i]!=s[j]) dp[i][j]=1+min(dp[i][j-1] , dp[i+1][j]);
+                else dp[i][j]=dp[i+1][j-1];
+            }
+        }
+        return dp[0][n-1];
     }
 };
