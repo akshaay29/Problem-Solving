@@ -4,15 +4,14 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
-        int i=0,j=0;
-        string result="";
+        int i=0,j=0,k=0;
+        string result(spaces.size()+s.size(),' ');
         while(i<s.size()){
             if(j<spaces.size() && i==spaces[j]){
-                result+=" ";
+                k++;
                 j+=1;
             }
-            result.push_back(s[i]);
-            i+=1;
+            result[k++]=s[i++];
         }
         return result;
     }
