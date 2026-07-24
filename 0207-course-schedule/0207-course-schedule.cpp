@@ -1,25 +1,30 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+    bool dfs(int node,unordered_map<int,bool>&visited,unordered_map<int,bool>&dfsvisited,unordered_map<int,list<int>>&adj){
+        visited[node]=true;
+        dfsvisited[node]=true;
+        for(auto neighbour:adj[node]){
+            if(!visited[neighbour]) {
+                if(dfs(neighbour,visited,dfsvisited,adj)) return true;
+            }
+            else if(dfsvisited[neighbour]) return true;
+        }
+        dfsvisited[node]=false;
+        return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_map<int,list<int>>adj;
-        vector<int>indegree(numCourses,0);
-        for(auto it:prerequisites){
+        for(auto it:nums){
             int u=it[1] , v=it[0];
             adj[u].push_back(v);
-            indegree[v]+=1;
         }
-        queue<int>q;
-        for(int i=0;i<numCourses;i++) if(indegree[i]==0) q.push(i);
-        int cnt=0;
-        while(!q.empty()){
-            int front=q.front();
-            q.pop();
-            cnt+=1;
-            for(auto neighbour:adj[front]){
-                indegree[neighbour]-=1;
-                if(indegree[neighbour]==0) q.push(neighbour);
-            }
+        unordered_map<int,bool>visited;
+        unordered_map<int,bool>dfsvisited;
+        for(int i=0;i<numCourses;i++){
+            if(!visited[i]) if(dfs(i,visited,dfsvisited,adj)) return false;
         }
-        return (cnt==numCourses) ? true:false;
+        return true;
     }
 };
