@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         stack<int>st;
         int n=nums.size();
         vector<int>result(n,0);
