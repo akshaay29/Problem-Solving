@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/akshaay29/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/akshaay29/Problem-Solving/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
