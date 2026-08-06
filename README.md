@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/akshaay29/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/akshaay29/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshaay29/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/akshaay29/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/akshaay29/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/akshaay29/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
