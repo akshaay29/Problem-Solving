@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshaay29/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
