@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/akshaay29/Problem-Solving/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
