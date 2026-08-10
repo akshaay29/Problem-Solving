@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/akshaay29/Problem-Solving/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
