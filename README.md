@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshaay29/Problem-Solving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/akshaay29/Problem-Solving/tree/master/0274-h-index) |
+| [0875-koko-eating-bananas](https://github.com/akshaay29/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshaay29/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/akshaay29/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
