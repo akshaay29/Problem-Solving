@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/akshaay29/Problem-Solving/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaay29/Problem-Solving/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0875-koko-eating-bananas](https://github.com/akshaay29/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaay29/Problem-Solving/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/akshaay29/Problem-Solving/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
