@@ -1,17 +1,19 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
-        if(g.size()==0 || s.size()==0) return 0;
-        int i=0,j=0;
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
-        while(i<=g.size()-1 && j<=s.size()-1){
-            if(g[i]>s[j]) j++;
+        int i=0 ,  j=0 , cnt=0;
+        while(i<g.size() && j<s.size()){
+            if(g[i]>s[j]) j+=1;
             else {
-                i++;
-                j++;
+                cnt+=1;
+                i+=1;
+                j+=1;
             }
         }
-        return i;
+        return cnt;
     }
 };
