@@ -1,29 +1,32 @@
 class Solution {
 public:
-    int solve(int i,int amt,vector<int>&coins,vector<vector<int>>&dp){
+    /*int solve(int i,int amt,vector<int>& coins,vector<vector<int>>&dp){
         if(amt==0) return 0;
-        if(i>=coins.size() || amt<0) return INT_MAX;
-        if(dp[amt][i]!=-1) return dp[amt][i];
-        int call=solve(i,amt-coins[i],coins,dp);
-        int inc=(call != INT_MAX) ? 1+call : INT_MAX;
-        int exc=solve(i+1,amt,coins,dp);
-        return dp[amt][i]=min(inc,exc);
-    }
-    int coinChange(vector<int>& coins, int amt) {
+        if(amt<0 || i==coins.size()) return 1e9;
+        if(dp[i][amt]!=-1) return dp[i][amt];
+        int pick=1e9;
+        if(amt>=coins[i]) pick=1+solve(i,amt-coins[i],coins,dp);
+        int notpick=solve(i+1,amt,coins,dp);
+        return dp[i][amt]=min(pick,notpick);
+    }*/
+    int coinChange(vector<int>& coins, int amount) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        int n=coins.size() ;
-        vector<vector<int>>dp(amt+1 ,vector<int>(n,0));
-        for(int j=0;j<n;j++) dp[0][j]=0;
-        for(int i=1;i<=amt;i++){
-            for(int j=n-1;j>=0;j--){
-                dp[i][j]=1e9;
-                int inc=1e9 , exc=1e9;
-                if(i>=coins[j]) inc=1+dp[i-coins[j]][j];
-                if(j+1<n) exc=dp[i][j+1];
-                dp[i][j]=min(inc , exc);
+        int n=coins.size();
+        /*vector<vector<int>>dp(n+1,vector<int>(amount+1,-1));
+        int ans=solve(0,amount,coins,dp);
+        return (ans==1e9) ? -1:ans;*/
+        vector<vector<int>>dp(n+1,vector<int>(amount+1,1e9));
+        for(int i=0;i<coins.size();i++){
+            dp[i][0]=0;
+        }
+        for(int amt=1;amt<=amount;amt++){
+            for(int i=n-1;i>=0;i--){
+                int pick=INT_MAX;
+                if(amt>=coins[i]) pick=1+dp[i][amt-coins[i]];
+                dp[i][amt]=min(pick,dp[i+1][amt]);
             }
         }
-        return dp[amt][0]>=1e9 ? -1:dp[amt][0];
+        return (dp[0][amount]==1e9) ? -1:dp[0][amount];
     }
 };
