@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshaay29/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaay29/Problem-Solving/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -240,4 +242,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/akshaay29/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
