@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/akshaay29/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshaay29/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/akshaay29/Problem-Solving/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshaay29/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaay29/Problem-Solving/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaay29/Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 ## Tree
 |  |
 | ------- |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
