@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/akshaay29/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshaay29/Problem-Solving/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshaay29/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshaay29/Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshaay29/Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/akshaay29/Problem-Solving/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshaay29/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/akshaay29/Problem-Solving/tree/master/0525-contiguous-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshaay29/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaay29/Problem-Solving/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshaay29/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaay29/Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
@@ -301,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/akshaay29/Problem-Solving/tree/master/0289-game-of-life) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshaay29/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshaay29/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
