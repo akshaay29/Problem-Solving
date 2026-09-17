@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/akshaay29/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/akshaay29/Problem-Solving/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshaay29/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/akshaay29/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
 |  |
 | ------- |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshaay29/Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
