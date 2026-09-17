@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshaay29/Problem-Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
 ## Queue
 |  |
 | ------- |
