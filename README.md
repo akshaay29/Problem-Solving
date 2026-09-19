@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/akshaay29/Problem-Solving/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/akshaay29/Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akshaay29/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
