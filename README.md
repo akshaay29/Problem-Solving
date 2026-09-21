@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshaay29/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshaay29/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/akshaay29/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshaay29/Problem-Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akshaay29/Problem-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshaay29/Problem-Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
