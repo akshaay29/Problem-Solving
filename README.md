@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Queue
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/akshaay29/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Prefix Sum
 |  |
 | ------- |
