@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshaay29/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshaay29/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/akshaay29/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1052-grumpy-bookstore-owner](https://github.com/akshaay29/Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaay29/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshaay29/Problem-Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akshaay29/Problem-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/akshaay29/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [1052-grumpy-bookstore-owner](https://github.com/akshaay29/Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaay29/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
