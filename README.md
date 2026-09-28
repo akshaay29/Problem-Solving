@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaay29/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshaay29/Problem-Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akshaay29/Problem-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshaay29/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaay29/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshaay29/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/akshaay29/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshaay29/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/akshaay29/Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaay29/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshaay29/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
