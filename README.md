@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akshaay29/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshaay29/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/akshaay29/Problem-Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
@@ -388,5 +389,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/akshaay29/Problem-Solving/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
