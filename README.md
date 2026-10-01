@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -391,4 +392,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/akshaay29/Problem-Solving/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0227-basic-calculator-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
