@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/akshaay29/Problem-Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/akshaay29/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaay29/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/akshaay29/Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/akshaay29/Problem-Solving/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akshaay29/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akshaay29/Problem-Solving/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
