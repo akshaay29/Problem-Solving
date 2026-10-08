@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akshaay29/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/akshaay29/Problem-Solving/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1898-maximum-number-of-removable-characters](https://github.com/akshaay29/Problem-Solving/tree/master/1898-maximum-number-of-removable-characters) |
@@ -412,11 +413,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akshaay29/Problem-Solving/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/akshaay29/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
