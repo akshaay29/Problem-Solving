@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshaay29/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/akshaay29/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akshaay29/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akshaay29/Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/akshaay29/Problem-Solving/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akshaay29/Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/akshaay29/Problem-Solving/tree/master/1898-maximum-number-of-removable-characters) |
 ## Queue
 |  |
@@ -415,11 +417,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akshaay29/Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akshaay29/Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
