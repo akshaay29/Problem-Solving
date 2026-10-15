@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshaay29/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshaay29/Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akshaay29/Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshaay29/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akshaay29/Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/akshaay29/Problem-Solving/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akshaay29/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akshaay29/Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshaay29/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshaay29/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -449,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshaay29/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshaay29/Problem-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
