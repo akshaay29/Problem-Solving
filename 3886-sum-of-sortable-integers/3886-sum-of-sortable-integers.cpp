@@ -1,44 +1,41 @@
 class Solution {
 public:
-    int sortableIntegers(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> sorted = nums;
-        sort(sorted.begin(), sorted.end());
-        vector<int> divs;
-        for (int i = 1; i * i <= n; ++i) {
-            if (n % i == 0) {
-                divs.push_back(i);
-                if (i != n / i) divs.push_back(n / i);
+    void getdiv(int n,vector<int>&div){
+        for(int i=1;i*i<=n;i++){
+            if(n%i==0){
+                div.push_back(i);
+                if(n/i!=i) div.push_back(n/i);
             }
         }
-        int ans = 0;
-        for (int k : divs) {
-            bool ok = true;
-            for (int s = 0; s < n && ok; s += k) {
-                int desc = 0, pos = -1;
-                for (int j = 0; j < k; ++j) {
-                    int a = nums[s + j];
-                    int b = nums[s + (j + 1) % k];
-                    if (a > b) {
-                        ++desc;
-                        pos = j;
-                        if (desc > 1) break;
-                    }
-                }
-                if (desc > 1) {
-                    ok = false;
-                    break;
-                }
-                int r = (desc == 0) ? 0 : (pos + 1) % k;
-                for (int j = 0; j < k; ++j) {
-                    if (nums[s + (r + j) % k] != sorted[s + j]) {
-                        ok = false;
+    }
+    int sortableIntegers(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        int n=nums.size();
+        vector<int>div;
+        getdiv(n,div);
+        int totalSum=0;
+        for(int k:div){
+            bool is_valid=true;
+            int prev_max=0;
+            for(int i=0;i<n;i+=k){
+                int curr_min=INT_MAX,curr_max=INT_MIN,cnt=0;
+                if(i+k-1<n && nums[i+k-1]>nums[i]) cnt+=1;
+                for(int j=i;j<i+k;j++){
+                    if(cnt>1){
+                        is_valid=false;
                         break;
                     }
+                    if(j+1<i+k && nums[j]>nums[j+1]) cnt+=1;
+                    curr_min=min(nums[j],curr_min);
+                    curr_max=max(nums[j],curr_max);
                 }
+                if(prev_max>curr_min || cnt>1) is_valid=false;
+                prev_max=curr_max;
+                if(!is_valid) break;
             }
-            if (ok) ans += k;
+            if(is_valid) totalSum+=k;
         }
-        return ans;
+        return totalSum;
     }
 };
