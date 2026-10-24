@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaay29/Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshaay29/Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/akshaay29/Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/akshaay29/Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/akshaay29/Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akshaay29/Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/akshaay29/Problem-Solving/tree/master/1898-maximum-number-of-removable-characters) |
+| [2409-count-days-spent-together](https://github.com/akshaay29/Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/akshaay29/Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Queue
 |  |
