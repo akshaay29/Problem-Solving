@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/akshaay29/Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akshaay29/Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaay29/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaay29/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshaay29/Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshaay29/Problem-Solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1898-maximum-number-of-removable-characters](https://github.com/akshaay29/Problem-Solving/tree/master/1898-maximum-number-of-removable-characters) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaay29/Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaay29/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshaay29/Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/akshaay29/Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/akshaay29/Problem-Solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/akshaay29/Problem-Solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaay29/Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaay29/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaay29/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshaay29/Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/akshaay29/Problem-Solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshaay29/Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/akshaay29/Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/akshaay29/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshaay29/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshaay29/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
