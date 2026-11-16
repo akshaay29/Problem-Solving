@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshaay29/Problem-Solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akshaay29/Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/akshaay29/Problem-Solving/tree/master/1898-maximum-number-of-removable-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshaay29/Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/akshaay29/Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akshaay29/Problem-Solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/akshaay29/Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshaay29/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/akshaay29/Problem-Solving/tree/master/0289-game-of-life) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshaay29/Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Design
 |  |
 | ------- |
